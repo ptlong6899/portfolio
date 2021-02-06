@@ -1,0 +1,119 @@
+{
+  "main": {
+    "name": "Phan Thanh Long",
+    "occupation": "Front End WebDeveloper",
+    "description": " And I'm currently looking for the next opportunity.",
+    "image": "unnamed.jpg",
+    "bio": "My name is Long, I'm a Front-end ReactJS Developer. Currently looking for the next opportunity.",
+    "contactmessage": "Get in touch with me to receive further details or anything else.",
+    "email": "thanhlong6899@gmail.com",
+    "phone": "+84 901 779 774",
+    "address": {
+      "street": "169 Duy Tan Street",
+      "city": "Bao Vinh District",
+      "state": "Long Khanh City",
+      "zip": ", Dong Nai"
+    },
+    "website": "fb.com/plongth",
+    "resumedownload": "https://export-download.canva.com/5OdGc/DAETvq5OdGc/190/0-16512114894.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJHKNGJLC2J7OGJ6Q%2F20210205%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210205T090659Z&X-Amz-Expires=73690&X-Amz-Signature=6e7b24689ec172bc462b9a23006a37031b8aea63e0d2971364e9e963705213f8&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27Long%2520Phan%2520Thanh.pdf&response-expires=Sat%2C%2006%20Feb%202021%2005%3A35%3A09%20GMT",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/plongth",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/thanh-long-5a1265172/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/longnezyyoi/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/ptlong6899",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "CoderSchool",
+        "degree": "FullStack Web Developer",
+        "graduated": "10/2020 - 01/2021",
+        "description": "A competitive, three-month intensive coding bootcamp where classes are held from 10am to 6pm, Mon-Fri with weekly capstone projects"
+      },
+      {
+        "school": "University of Science",
+        "degree": "Network Administrator",
+        "graduated": "Haven't graduated yet",
+        "description": "Maintaining academic records"
+      }
+    ],
+    "work": [
+      {
+        "company": "Clever Programmer",
+        "title": "JavaScript/Python Specialist",
+        "years": "May 2019 - Present",
+        "description": "Transforming the lives of people by teaching them how to become successful developers no matter if they are a beginner or not!"
+      },
+      {
+        "company": "NazaWEb",
+        "title": "Founder / Developer",
+        "years": "Jan 2019 - Present",
+        "description": "Helping businesses showing their best selves to clients."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "Redux",
+        "level": "90%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Discord Clone with Firebase",
+        "category": "Discord Clone built with FireBase",
+        "image": "discord-clone.PNG",
+        "url": "https://long-discord-clone.netlify.app/"
+      },
+      {
+        "title": "Long Movie with ReactJS",
+        "category": "Long Moviie built with ReactJS",
+        "image": "long-movie.PNG",
+        "url": "https://long-movie.netlify.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "If you require any additional information, I can be contacted at the phone numbers or email listed below.",
+        "user": "Long"
+      }
+    ]
+  }
+}
